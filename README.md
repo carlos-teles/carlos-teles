@@ -15,10 +15,10 @@ These are some of the technologies and tools that I work with:
 ![](https://img.shields.io/badge/ASP--blue)
 ![](https://img.shields.io/badge/Java--darkred)
 <br/>
-![](https://img.shields.io/badge/Oracle-Since 8i-red)
+![](https://img.shields.io/badge/Oracle-Since--8i-red)
 ![](https://img.shields.io/badge/PostgreSQL--green)
 ![](https://img.shields.io/badge/Cassandra--blue)
-![](https://img.shields.io/badge/MySQL-Since 3.23-orange) 
+![](https://img.shields.io/badge/MySQL-Since--3.23-orange) 
 
 <img alt="Face Screaming in Fear Emoji, Google style" src="https://hotemoji.com/images/emoji/l/chemy1pkm9sl.png" style="max-width:50%;">
 ![]()
