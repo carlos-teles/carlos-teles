@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm Carlos Teles, and I'm a Software Engineer/DevOps at Claro S.A. and I've been working in tech since 1999. I'm from Brazil.
+
+### Tech
+These are some of the technologies and tools that I work with:
+
+https://img.shields.io/badge/python-python-green
+
 <!--
 **carlos-teles/carlos-teles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
