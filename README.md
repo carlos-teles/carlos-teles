@@ -26,6 +26,7 @@ These are some of the technologies and tools that I work with:
 <br/>
 ![](https://badgen.net/badge/icon/windows?icon=windows&label)
 ![](https://badgen.net/badge/icon/linux?icon=linux&label) 
+![](https://badgen.net/badge/icon/Solaris?icon=sun&label) 
 
 <!--
 **carlos-teles/carlos-teles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
