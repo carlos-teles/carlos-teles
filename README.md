@@ -8,6 +8,12 @@ These are some of the technologies and tools that I work with:
 ![](https://img.shields.io/badge/python-Since--1.5-green)
 ![](https://img.shields.io/badge/php-Since--3-red)
 ![](https://img.shields.io/badge/perl--FDEEF4)
+![](https://img.shields.io/badge/ASP--blue)
+<br/>
+![](https://img.shields.io/badge/Oracle--red)
+![](https://img.shields.io/badge/PostgreSQL--green)
+![](https://img.shields.io/badge/Cassandra--blue)
+![](https://img.shields.io/badge/MySQL--orange)
 
 <!--
 **carlos-teles/carlos-teles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
