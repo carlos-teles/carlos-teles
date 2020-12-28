@@ -20,7 +20,7 @@ These are some of the technologies and tools that I work with:
 ![](https://img.shields.io/badge/Cassandra--blue)
 ![](https://img.shields.io/badge/MySQL-Since--3.23-orange) 
 
-<img alt="Face Screaming in Fear Emoji, Google style" src="https://hotemoji.com/images/emoji/l/chemy1pkm9sl.png" style="max-width:50%;">
+<img alt="Face Screaming in Fear Emoji, Google style" src="https://hotemoji.com/images/emoji/l/chemy1pkm9sl.png" style="width:15%;">
 ![]()
 <br/>
 <img src="https://camo.githubusercontent.com/5395fa328395998163ba3ae03e20eb6cd633c2535f4149cc6b2f5fa40113ecaf/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d45636c697073652d3243323235353f7374796c653d666c61742d737175617265266c6f676f3d65636c69707365266c6f676f436f6c6f723d7768697465" alt="Eclipse" data-canonical-src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&amp;logo=eclipse&amp;logoColor=white" style="max-width:100%;">
