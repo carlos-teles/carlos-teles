@@ -13,7 +13,7 @@ These are some of the technologies and tools that I work with:
 <img src="https://camo.githubusercontent.com/e56d586bf373ad33a4e8c7101246d54d5edc0fb52b87d309b899ce4818bd6086/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d666c61742d737175617265266c6f676f3d626f6f747374726170" alt="Bootstrap" data-canonical-src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&amp;logo=bootstrap" style="max-width:100%;">
 ![](https://img.shields.io/badge/perl--FDEEF4)
 ![](https://img.shields.io/badge/ASP--blue)
-![](https://img.shields.io/badge/Java-https://github.githubassets.com/images/icons/emoji/unicode/2615.png-darkred)
+![](https://img.shields.io/badge/Java--darkred):coffee:
 <br/>
 ![](https://img.shields.io/badge/Oracle-Since--8i-red)
 ![](https://img.shields.io/badge/PostgreSQL--green)
