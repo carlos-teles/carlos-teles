@@ -35,6 +35,10 @@ These are some of the technologies and tools that I work with:
 <!--
 **carlos-teles/carlos-teles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+https://badgen.net/
+https://shields.io/
+https://medium.com/@thiagoloureiro/badges-no-github-bf8289496c7d
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
