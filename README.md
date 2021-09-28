@@ -29,6 +29,15 @@ These are some of the technologies and tools that I work with:
 ![](https://badgen.net/badge/icon/Solaris?icon=sun&label) 
 
 ### Tools
+Operating Systems and Virtualization:
+Linux, Unix (Solaris, AIX and HP-UX) e Windows / VMWare e KVM - QEMU - PROXMOX / Docker / Kubernetes
+
+Monitoring:
+Nagios / Librenms / Zabbix / TICK Stack ( Telegraf InfluxDB Chronograf Kapacitor )
+
+Others:
+Ansible
+
 
 ### Research
 
