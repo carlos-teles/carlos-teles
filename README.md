@@ -28,6 +28,9 @@ These are some of the technologies and tools that I work with:
 ![](https://badgen.net/badge/icon/linux?icon=linux&label) :penguin:
 ![](https://badgen.net/badge/icon/Solaris?icon=sun&label) 
 
+### Programming Languages
+Python , PHP , JavaScript , PERL , ASP , C# , C++,  JAVA , Shell script , PL/SQL, Scala and R. 
+
 ### Tools
 Operating Systems and Virtualization:
 Linux, Unix (Solaris, AIX and HP-UX) e Windows / VMWare e KVM - QEMU - PROXMOX / Docker / Kubernetes
@@ -35,7 +38,7 @@ Linux, Unix (Solaris, AIX and HP-UX) e Windows / VMWare e KVM - QEMU - PROXMOX /
 Monitoring:
 Nagios / Librenms / Zabbix / TICK Stack ( Telegraf InfluxDB Chronograf Kapacitor )
 
-Others:
+Automation:
 Ansible
 
 
